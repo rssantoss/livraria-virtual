@@ -3,9 +3,8 @@
 Projeto final para desenvolver as competências necessárias para conclusão da disciplina de Programação WEB na faculdade UniCEUB.
 
 <br/>
-
+Aluno: Rafael Silva Santos | RA: 22008266
 Avaliador: Professor Aderbal Botelho
-
 <br/>
 
 Funções do projeto: 
@@ -27,9 +26,10 @@ Para conseguir rodar no http://localhost:8080/ é preciso:
 1. Baixar o repositório.
 2. Instalar o Eclipse IDE for Enterprise Java and Web Developers.
 4. Instalar o apache-tomcat-10.0.13.
-5. Realizar as configurações iniciais do Tomcat com o workspace.
-6. Iniciar o servidor do Tomcat.
-7. Abrir o http://localhost:8080/livraria
+5. Instale o Tomcat 10 no Eclipse.
+6. Adicione o projeto no servidor.
+7. Iniciar o servidor do Tomcat.
+8. Abra o http://localhost:8080/livraria
 
 <br/>
 
