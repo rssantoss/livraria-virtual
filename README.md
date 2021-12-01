@@ -26,7 +26,6 @@ Para conseguir rodar no http://localhost:8080/ é preciso:
 
 1. Baixar o repositório.
 2. Instalar o Eclipse IDE for Enterprise Java and Web Developers.
-3. Instale o jdk-8u152.
 4. Instalar o apache-tomcat-10.0.13.
 5. Realizar as configurações iniciais do Tomcat com o workspace.
 6. Iniciar o servidor do Tomcat.
