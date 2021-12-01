@@ -15,7 +15,7 @@ Funções do projeto:
 3. Sistema de compras que permite ver os valores e adicionar os livros ao carrinho.<br/>
 4. Pagamento dos livros comprados e recibo estipulando data de entrega.<br/>
 <br/>
-<br/>
+
 Para conseguir rodar no http://localhost:8080/ é preciso:
 <br/>
 1. Baixar o repositório.<br/>
