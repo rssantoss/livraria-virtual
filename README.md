@@ -26,4 +26,7 @@ Para conseguir rodar no http://localhost:8080/ é preciso:
 7. Iniciar o servidor do Tomcat.<br/>
 8. Abra o http://localhost:8080/livraria<br/>
 <br/>
-Se tudo correu conforme o previsto, será possível visualizar a tela de iniciar compras do Projeto.
+Se tudo correu conforme o previsto, será possível visualizar a tela de iniciar compras do Projeto.</br>
+<strong>OBS: </strong> Provavelmente não será necessário utilizar as pastas "Servers" e ".metadata" se </br>
+o Tomcat estiver bem configurado. Além disso, a pasta "telas para visualizar" é apenas uma forma de </br>
+facilitar a visualização das telas do projeto!!
